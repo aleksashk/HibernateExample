@@ -18,5 +18,7 @@
         <property name="use_sql_comments">false</property>
 
         <mapping class="com.philimonov.hibernate.entity.Student"></mapping>
+        <mapping class="com.philimonov.hibernate.entity.Subject"></mapping>
+        <mapping class="com.philimonov.hibernate.entity.Exam"></mapping>
     </session-factory>
 </hibernate-configuration>
